@@ -1,6 +1,6 @@
 ### Hi there, super cool thingy under construction 👋
 
-![content team undraw logo](images/undraw_content_team_3epn.png)
+![content team undraw logo](images/undraw_content_team_3epn.svg)
 <!--
 **marlonanthony/marlonanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
